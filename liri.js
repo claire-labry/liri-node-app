@@ -15,7 +15,7 @@ var moment = require("moment");
 moment().format(); 
 
 // use axios package to to retrieve data from apis
-var axios = require("axios")
+var axios = require("axios");
 
 // use fs node package to take text from random.txt
 // var fs = require("random.txt")
@@ -77,42 +77,39 @@ function concertThis(artist) {
     }
     
     function spotifyThis(value){
-         if(!value){
-             value = "The Sign"; 
-         }
-         spotify
-         .search({
-             type: "track",
-             query: value
-         })
-        .then(function(response){
-            for(var i = 0; i < 3; i++){
-            
-                var spotifyChoice =
-
-                "-------------Spotify Choice-------------"
-
-                "\n Artist: " + response.tracks.items[i].artists.name +
-                "\n Song Name: " + response.tracks.items[i].name +
-                "\n Preview Link: " + response.tracks.items[i].preview_url +
-                "\n Album Name: " + response.tracks.items[i].album.name;
-
-                console.log(spotifyChoice);
-            }
+        if(!value){
+            value = "The Sign"; 
+        }
+        spotify
+        .search({
+            type: "track",
+            query: value
         })
-    
-        .catch(function(err) {
-            console.log(err);
-        });
-    }
+       .then(function(response){
+          
+           for(var i = 0; i < 3; i++){
+               var spotifyChoice =
+               "-------------Spotify Choice-------------" +
+               "\n Artist: " + response.tracks.items[i].artists[0].name +
+               "\n Song Name: " + response.tracks.items[i].name +
+               "\n Preview Link: " + response.tracks.items[i].preview_url +
+               "\n Album Name: " + response.tracks.items[i].album.name;
+               console.log(spotifyChoice);
+           }
+       })
+       .catch(function(err) {
+           console.log(err);
+       });
+   }
 
     function movieThis(movie){
         axios.get("http://www.omdbapi.com/?t="+ movie + "&y=&plot=short&apikey=trilogy").then(
             function(response){
-        
+                
+
                 var movieChoice = 
 
-                "-------------Movie Information-------------"
+                "-------------Movie Information-------------" +
 
                 "\n Movie Title: " + response.data.Title +
                 "\n Year Released: " + response.data.Year +
@@ -121,7 +118,7 @@ function concertThis(artist) {
                 "\n Country Produced: " + response.data.Country +
                 "\n Movie Language: " + response.data.Language +
                 "\n Movie Plot: " + response.data.Plot +
-                "\n Movie's Actors/Actresses: " + response.data.Actors +
+                "\n Movie's Actors/Actresses: " + response.data.Actors 
 
                 console.log(movieChoice);
     
