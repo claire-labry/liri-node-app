@@ -23,7 +23,7 @@ This will prompt the terminal to pull information about the band's:
 
 ![](gif_demos/concert-this.GIF)
 
-Type in the terminal: node liri.js spotify-this-song '<song name here>'
+Type in the terminal: node liri.js spotify-this-song <song name here>
 
 This will prompt the terminal to pull information about the song's: 
 
@@ -34,7 +34,7 @@ This will prompt the terminal to pull information about the song's:
 
 ![](gif_demos/spotify-this-song.GIF)
 
-Type in the terminal: node liri.js spotify-this-song '<movie name here>'
+Type in the terminal: node liri.js spotify-this-song <movie name here>
 
 This will prompt the terminal to pull information about the movie's: 
 
@@ -48,3 +48,16 @@ This will prompt the terminal to pull information about the movie's:
   * Actors in the movie.
 
 ![](gif_demos/movie-this.GIF)
+
+### Technology 
+
+* Node.js
+* Axios
+* Moment
+* DotEnv
+
+### APIs
+
+* Bands In Town
+* Spotify API
+* OMDB API
