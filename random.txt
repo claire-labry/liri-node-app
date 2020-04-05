@@ -38,3 +38,1236 @@ spotify-this-song,"I Want it That Way"
  Movie Language: English
  Movie Plot: In a self-destructing world, a vengeful Australian policeman sets out to stop a violent motorcycle gang.
  Movie's Actors/Actresses: Mel Gibson, Joanne Samuel, Hugh Keays-Byrne, Steve Bisley
+ -------------Concert Information-------------
+ Venue Name: Werchter Boutique
+ City: Rotselaar
+ Country: Belgium
+ Date: 06/20/2020
+ -------------Concert Information-------------
+ Venue Name: Open’er Festival
+ City: Powiat Pucki
+ Country: Poland
+ Date: 07/03/2020
+ -------------Concert Information-------------
+ Venue Name: Festival de Nîmes
+ City: Nîmes
+ Country: France
+ Date: 07/05/2020
+ -------------Concert Information-------------
+ Venue Name: NOS Alive
+ City: Algés
+ Country: Portugal
+ Date: 07/09/2020
+ -------------Concert Information-------------
+ Venue Name: Hyde Park
+ City: London
+ Country: United Kingdom
+ Date: 07/11/2020
+ -------------Concert Information-------------
+ Venue Name: Waldbühne Berlin
+ City: Berlin
+ Country: Germany
+ Date: 06/24/2020
+ -------------Concert Information-------------
+ Venue Name: Allianz Parque
+ City: Sao Paulo
+ Country: Brazil
+ Date: 07/19/2020
+ -------------Concert Information-------------
+ Venue Name: Lover Fest West
+ City: Los Angeles
+ Country: United States
+ Date: 07/25/2020
+ -------------Concert Information-------------
+ Venue Name: Lover Fest West
+ City: Los Angeles
+ Country: United States
+ Date: 07/26/2020
+ -------------Concert Information-------------
+ Venue Name: Lover Fest East
+ City: Foxborough
+ Country: United States
+ Date: 07/31/2020
+ -------------Concert Information-------------
+ Venue Name: Lover Fest East
+ City: Foxborough
+ Country: United States
+ Date: 08/01/2020
+ -------------Concert Information-------------
+ Venue Name: Oslo Sommertid
+ City: Oslo
+ Country: Norway
+ Date: 06/26/2020
+ -------------Concert Information-------------
+ Venue Name: Roskilde Festival
+ City: Roskilde
+ Country: Denmark
+ Date: 07/01/2020
+ -------------Concert Information-------------
+ Venue Name: Allianz Parque
+ City: Sao Paulo
+ Country: Brazil
+ Date: 07/18/2020
+ -------------Concert Information-------------
+ Venue Name: Isleta Amphitheater
+ City: Albuquerque
+ Country: United States
+ Date: 06/03/2020
+ -------------Concert Information-------------
+ Venue Name: Pepsi Center
+ City: Denver
+ Country: United States
+ Date: 06/05/2020
+ -------------Concert Information-------------
+ Venue Name: Wrigley Field
+ City: Chicago
+ Country: United States
+ Date: 06/13/2020
+ -------------Concert Information-------------
+ Venue Name: Ruoff Home Mortgage Music Center 
+ City: Noblesville
+ Country: United States
+ Date: 06/14/2020
+ -------------Concert Information-------------
+ Venue Name: DTE Energy Music Theatre
+ City: Clarkston
+ Country: United States
+ Date: 06/16/2020
+ -------------Concert Information-------------
+ Venue Name: Blossom Music Center
+ City: Cuyahoga Falls
+ Country: United States
+ Date: 06/18/2020
+ -------------Concert Information-------------
+ Venue Name: KeyBank Pavilion
+ City: Burgettstown
+ Country: United States
+ Date: 06/19/2020
+ -------------Concert Information-------------
+ Venue Name: Cynthia Woods Mitchell Pavilion presented by Huntsman
+ City: The Woodlands
+ Country: United States
+ Date: 06/08/2020
+ -------------Concert Information-------------
+ Venue Name: Citi Field
+ City: Flushing
+ Country: United States
+ Date: 06/25/2020
+ -------------Concert Information-------------
+ Venue Name: Darien Lake Amphitheater 
+ City: Darien Center
+ Country: United States
+ Date: 06/27/2020
+ -------------Concert Information-------------
+ Venue Name: Budweiser Stage
+ City: Toronto
+ Country: Canada
+ Date: 06/28/2020
+ -------------Concert Information-------------
+ Venue Name: Simmons Bank Arena
+ City: North Little Rock
+ Country: United States
+ Date: 08/02/2020
+ -------------Concert Information-------------
+ Venue Name: Chesapeake Energy Arena
+ City: Oklahoma City
+ Country: United States
+ Date: 08/04/2020
+ -------------Concert Information-------------
+ Venue Name: Pinnacle Bank Arena
+ City: Lincoln
+ Country: United States
+ Date: 08/06/2020
+ -------------Concert Information-------------
+ Venue Name: Fargodome
+ City: Fargo
+ Country: United States
+ Date: 08/08/2020
+ -------------Concert Information-------------
+ Venue Name: Xcel Energy Center
+ City: St Paul
+ Country: United States
+ Date: 08/09/2020
+ -------------Concert Information-------------
+ Venue Name: Rogers Place
+ City: Edmonton
+ Country: Canada
+ Date: 08/12/2020
+ -------------Concert Information-------------
+ Venue Name: Pepsi Live at Rogers Arena 
+ City: Vancouver
+ Country: Canada
+ Date: 08/14/2020
+ -------------Concert Information-------------
+ Venue Name: White River Amphitheatre
+ City: Auburn
+ Country: United States
+ Date: 08/15/2020
+ -------------Concert Information-------------
+ Venue Name: Rose Quarter (Consists of the Moda Center and Veterans Memorial Coliseum)
+ City: Portland
+ Country: United States
+ Date: 08/17/2020
+ -------------Concert Information-------------
+ Venue Name: Shoreline Amphitheatre and Grounds 
+ City: Mountain View
+ Country: United States
+ Date: 08/19/2020
+ -------------Concert Information-------------
+ Venue Name: Austin360 Amphitheater
+ City: Austin
+ Country: United States
+ Date: 06/07/2020
+ -------------Concert Information-------------
+ Venue Name: Concord Pavilion
+ City: Concord
+ Country: United States
+ Date: 08/22/2020
+ -------------Concert Information-------------
+ Venue Name: USANA Amphitheatre 
+ City: Salt Lake City
+ Country: United States
+ Date: 08/24/2020
+ -------------Concert Information-------------
+ Venue Name: Sprint Center
+ City: Kansas City
+ Country: United States
+ Date: 08/27/2020
+ -------------Concert Information-------------
+ Venue Name: Hollywood Casino Amphitheatre
+ City: Maryland Heights
+ Country: United States
+ Date: 08/29/2020
+ -------------Concert Information-------------
+ Venue Name: American Family Insurance Amphitheater
+ City: Milwaukee
+ Country: United States
+ Date: 08/30/2020
+ -------------Concert Information-------------
+ Venue Name: Riverbend Music Center
+ City: Cincinnati
+ Country: United States
+ Date: 09/01/2020
+ -------------Concert Information-------------
+ Venue Name: BB&T Pavilion
+ City: Camden
+ Country: United States
+ Date: 09/03/2020
+ -------------Concert Information-------------
+ Venue Name: Hershey Park Pavilion/Stadium 
+ City: Hershey
+ Country: United States
+ Date: 09/05/2020
+ -------------Concert Information-------------
+ Venue Name: Fenway Park
+ City: Boston
+ Country: United States
+ Date: 06/24/2020
+ -------------Concert Information-------------
+ Venue Name: Xfinity Theatre
+ City: Hartford
+ Country: United States
+ Date: 09/09/2020
+ -------------Concert Information-------------
+ Venue Name: Jiffy Lube Live
+ City: Bristow
+ Country: United States
+ Date: 09/11/2020
+ -------------Concert Information-------------
+ Venue Name: Coastal Credit Union Music Park @ Walnut Creek Amphitheatre
+ City: Raleigh
+ Country: United States
+ Date: 09/12/2020
+ -------------Concert Information-------------
+ Venue Name: PNC Music Pavilion
+ City: Charlotte
+ Country: United States
+ Date: 09/14/2020
+ -------------Concert Information-------------
+ Venue Name: Coral Sky Amphitheatre
+ City: West Palm Beach
+ Country: United States
+ Date: 09/16/2020
+ -------------Concert Information-------------
+ Venue Name: MIDFLORIDA Credit Union Amphitheatre
+ City: Tampa
+ Country: United States
+ Date: 09/17/2020
+ -------------Concert Information-------------
+ Venue Name: Saratoga Performing Arts Center Box Office
+ City: Saratoga Springs
+ Country: United States
+ Date: 09/06/2020
+ -------------Concert Information-------------
+ Venue Name: Dos Equis Pavilion
+ City: Dallas
+ Country: United States
+ Date: 06/10/2020
+ -------------Concert Information-------------
+ Venue Name: Los Angeles Football Club/Banc of California Stadium 
+ City: Los Angeles
+ Country: United States
+ Date: 08/21/2020
+ -------------Concert Information-------------
+ Venue Name: Isleta Amphitheater
+ City: Albuquerque
+ Country: United States
+ Date: 06/03/2020
+ -------------Concert Information-------------
+ Venue Name: Austin360 Amphitheater
+ City: Austin
+ Country: United States
+ Date: 06/07/2020
+ -------------Concert Information-------------
+ Venue Name: Pepsi Center
+ City: Denver
+ Country: United States
+ Date: 06/05/2020
+ -------------Concert Information-------------
+ Venue Name: Cynthia Woods Mitchell Pavilion presented by Huntsman
+ City: The Woodlands
+ Country: United States
+ Date: 06/08/2020
+ -------------Concert Information-------------
+ Venue Name: Dos Equis Pavilion
+ City: Dallas
+ Country: United States
+ Date: 06/10/2020
+ -------------Concert Information-------------
+ Venue Name: Wrigley Field
+ City: Chicago
+ Country: United States
+ Date: 06/13/2020
+ -------------Concert Information-------------
+ Venue Name: Blossom Music Center
+ City: Cuyahoga Falls
+ Country: United States
+ Date: 06/18/2020
+ -------------Concert Information-------------
+ Venue Name: KeyBank Pavilion
+ City: Burgettstown
+ Country: United States
+ Date: 06/19/2020
+ -------------Concert Information-------------
+ Venue Name: Ruoff Home Mortgage Music Center 
+ City: Noblesville
+ Country: United States
+ Date: 06/14/2020
+ -------------Concert Information-------------
+ Venue Name: Darien Lake Amphitheater 
+ City: Darien Center
+ Country: United States
+ Date: 06/27/2020
+ -------------Concert Information-------------
+ Venue Name: Budweiser Stage
+ City: Toronto
+ Country: Canada
+ Date: 06/28/2020
+ -------------Concert Information-------------
+ Venue Name: Simmons Bank Arena
+ City: North Little Rock
+ Country: United States
+ Date: 08/02/2020
+ -------------Concert Information-------------
+ Venue Name: Chesapeake Energy Arena
+ City: Oklahoma City
+ Country: United States
+ Date: 08/04/2020
+ -------------Concert Information-------------
+ Venue Name: Pinnacle Bank Arena
+ City: Lincoln
+ Country: United States
+ Date: 08/06/2020
+ -------------Concert Information-------------
+ Venue Name: Fargodome
+ City: Fargo
+ Country: United States
+ Date: 08/08/2020
+ -------------Concert Information-------------
+ Venue Name: Xcel Energy Center
+ City: St Paul
+ Country: United States
+ Date: 08/09/2020
+ -------------Concert Information-------------
+ Venue Name: Rogers Place
+ City: Edmonton
+ Country: Canada
+ Date: 08/12/2020
+ -------------Concert Information-------------
+ Venue Name: Pepsi Live at Rogers Arena 
+ City: Vancouver
+ Country: Canada
+ Date: 08/14/2020
+ -------------Concert Information-------------
+ Venue Name: White River Amphitheatre
+ City: Auburn
+ Country: United States
+ Date: 08/15/2020
+ -------------Concert Information-------------
+ Venue Name: Rose Quarter (Consists of the Moda Center and Veterans Memorial Coliseum)
+ City: Portland
+ Country: United States
+ Date: 08/17/2020
+ -------------Concert Information-------------
+ Venue Name: Shoreline Amphitheatre and Grounds 
+ City: Mountain View
+ Country: United States
+ Date: 08/19/2020
+ -------------Concert Information-------------
+ Venue Name: Los Angeles Football Club/Banc of California Stadium 
+ City: Los Angeles
+ Country: United States
+ Date: 08/21/2020
+ -------------Concert Information-------------
+ Venue Name: Concord Pavilion
+ City: Concord
+ Country: United States
+ Date: 08/22/2020
+ -------------Concert Information-------------
+ Venue Name: USANA Amphitheatre 
+ City: Salt Lake City
+ Country: United States
+ Date: 08/24/2020
+ -------------Concert Information-------------
+ Venue Name: Sprint Center
+ City: Kansas City
+ Country: United States
+ Date: 08/27/2020
+ -------------Concert Information-------------
+ Venue Name: Hollywood Casino Amphitheatre
+ City: Maryland Heights
+ Country: United States
+ Date: 08/29/2020
+ -------------Concert Information-------------
+ Venue Name: American Family Insurance Amphitheater
+ City: Milwaukee
+ Country: United States
+ Date: 08/30/2020
+ -------------Concert Information-------------
+ Venue Name: Riverbend Music Center
+ City: Cincinnati
+ Country: United States
+ Date: 09/01/2020
+ -------------Concert Information-------------
+ Venue Name: BB&T Pavilion
+ City: Camden
+ Country: United States
+ Date: 09/03/2020
+ -------------Concert Information-------------
+ Venue Name: Hershey Park Pavilion/Stadium 
+ City: Hershey
+ Country: United States
+ Date: 09/05/2020
+ -------------Concert Information-------------
+ Venue Name: Saratoga Performing Arts Center Box Office
+ City: Saratoga Springs
+ Country: United States
+ Date: 09/06/2020
+ -------------Concert Information-------------
+ Venue Name: Xfinity Theatre
+ City: Hartford
+ Country: United States
+ Date: 09/09/2020
+ -------------Concert Information-------------
+ Venue Name: Jiffy Lube Live
+ City: Bristow
+ Country: United States
+ Date: 09/11/2020
+ -------------Concert Information-------------
+ Venue Name: Coastal Credit Union Music Park @ Walnut Creek Amphitheatre
+ City: Raleigh
+ Country: United States
+ Date: 09/12/2020
+ -------------Concert Information-------------
+ Venue Name: PNC Music Pavilion
+ City: Charlotte
+ Country: United States
+ Date: 09/14/2020
+ -------------Concert Information-------------
+ Venue Name: Coral Sky Amphitheatre
+ City: West Palm Beach
+ Country: United States
+ Date: 09/16/2020
+ -------------Concert Information-------------
+ Venue Name: MIDFLORIDA Credit Union Amphitheatre
+ City: Tampa
+ Country: United States
+ Date: 09/17/2020
+ -------------Concert Information-------------
+ Venue Name: Fenway Park
+ City: Boston
+ Country: United States
+ Date: 06/24/2020
+ -------------Concert Information-------------
+ Venue Name: Citi Field
+ City: Flushing
+ Country: United States
+ Date: 06/25/2020
+ -------------Concert Information-------------
+ Venue Name: DTE Energy Music Theatre
+ City: Clarkston
+ Country: United States
+ Date: 06/16/2020
+ -------------Concert Information-------------
+ Venue Name: Black Sea Arena
+ City: Shekvetili
+ Country: Georgia
+ Date: 10/10/2020
+ -------------Concert Information-------------
+ Venue Name: SEC Armadillo
+ City: Glasgow
+ Country: United Kingdom
+ Date: 10/13/2020
+ -------------Concert Information-------------
+ Venue Name: O2 Apollo Manchester
+ City: Manchester
+ Country: United Kingdom
+ Date: 10/14/2020
+ -------------Concert Information-------------
+ Venue Name: Eventim Apollo Hammersmith
+ City: London
+ Country: United Kingdom
+ Date: 10/15/2020
+ -------------Concert Information-------------
+ Venue Name: AFAS Live
+ City: Amsterdam
+ Country: Netherlands
+ Date: 10/20/2020
+ -------------Concert Information-------------
+ Venue Name: Porsche Arena
+ City: Stuttgart
+ Country: Germany
+ Date: 10/23/2020
+ -------------Concert Information-------------
+ Venue Name: Barclaycard Arena Hamburg
+ City: Hamburg
+ Country: Germany
+ Date: 10/24/2020
+ -------------Concert Information-------------
+ Venue Name: Mitsubishi Electric HALLE
+ City: Dusseldorf
+ Country: Germany
+ Date: 10/26/2020
+ -------------Concert Information-------------
+ Venue Name: Hallenstadion
+ City: Zürich
+ Country: Switzerland
+ Date: 10/27/2020
+ -------------Concert Information-------------
+ Venue Name: Kioene Arena
+ City: Padova
+ Country: Italy
+ Date: 10/29/2020
+ -------------Concert Information-------------
+ Venue Name: Lorenzini District
+ City: Milano
+ Country: Italy
+ Date: 10/30/2020
+ -------------Concert Information-------------
+ Venue Name: Palacio Vistalegre
+ City: Madrid
+ Country: Spain
+ Date: 11/02/2020
+ -------------Concert Information-------------
+ Venue Name: Wiener Stadthalle
+ City: Vienna
+ Country: Austria
+ Date: 11/05/2020
+ -------------Concert Information-------------
+ Venue Name: O2 Arena
+ City: Prague
+ Country: Czech Republic
+ Date: 11/06/2020
+ -------------Concert Information-------------
+ Venue Name: Dvorana Stožice
+ City: Ljubljana
+ Country: Slovenia
+ Date: 11/09/2020
+ -------------Concert Information-------------
+ Venue Name: Ondrej Nepela Arena
+ City: Bratislava
+ Country: Slovakia
+ Date: 11/10/2020
+ -------------Concert Information-------------
+ Venue Name: Arena COS Torwar
+ City: Warszawa
+ Country: Poland
+ Date: 11/12/2020
+ -------------Concert Information-------------
+ Venue Name: Arena Riga
+ City: R?ga
+ Country: Latvia
+ Date: 11/14/2020
+ -------------Concert Information-------------
+ Venue Name: Žalgiris arena
+ City: Kaunas
+ Country: Lithuania
+ Date: 11/16/2020
+ -------------Concert Information-------------
+ Venue Name: Saku Arena
+ City: Tallinn
+ Country: Estonia
+ Date: 11/17/2020
+ -------------Concert Information-------------
+ Venue Name: Yubileynyy
+ City: Sankt-peterburg
+ Country: Russia
+ Date: 11/19/2020
+ -------------Concert Information-------------
+ Venue Name: Vtb Arena Dinamo
+ City: Moskva
+ Country: Russia
+ Date: 11/20/2020
+ -------------Concert Information-------------
+ Venue Name: Zenith
+ City: Munich
+ Country: Germany
+ Date: 10/18/2020
+ -------------Concert Information-------------
+ Venue Name: Zénith de Paris
+ City: Paris
+ Country: France
+ Date: 10/22/2020
+ -------------Concert Information-------------
+ Venue Name: Forest National
+ City: Bruxelles
+ Country: Belgium
+ Date: 10/17/2020
+ -------------Concert Information-------------
+ Venue Name: Black Sea Arena
+ City: Shekvetili
+ Country: Georgia
+ Date: 10/10/2020
+ -------------Concert Information-------------
+ Venue Name: Forest National
+ City: Bruxelles
+ Country: Belgium
+ Date: 10/17/2020
+ -------------Concert Information-------------
+ Venue Name: Zenith
+ City: Munich
+ Country: Germany
+ Date: 10/18/2020
+ -------------Concert Information-------------
+ Venue Name: AFAS Live
+ City: Amsterdam
+ Country: Netherlands
+ Date: 10/20/2020
+ -------------Concert Information-------------
+ Venue Name: Zénith de Paris
+ City: Paris
+ Country: France
+ Date: 10/22/2020
+ -------------Concert Information-------------
+ Venue Name: Porsche Arena
+ City: Stuttgart
+ Country: Germany
+ Date: 10/23/2020
+ -------------Concert Information-------------
+ Venue Name: Barclaycard Arena Hamburg
+ City: Hamburg
+ Country: Germany
+ Date: 10/24/2020
+ -------------Concert Information-------------
+ Venue Name: Mitsubishi Electric HALLE
+ City: Dusseldorf
+ Country: Germany
+ Date: 10/26/2020
+ -------------Concert Information-------------
+ Venue Name: Hallenstadion
+ City: Zürich
+ Country: Switzerland
+ Date: 10/27/2020
+ -------------Concert Information-------------
+ Venue Name: Kioene Arena
+ City: Padova
+ Country: Italy
+ Date: 10/29/2020
+ -------------Concert Information-------------
+ Venue Name: Lorenzini District
+ City: Milano
+ Country: Italy
+ Date: 10/30/2020
+ -------------Concert Information-------------
+ Venue Name: Palacio Vistalegre
+ City: Madrid
+ Country: Spain
+ Date: 11/02/2020
+ -------------Concert Information-------------
+ Venue Name: Wiener Stadthalle
+ City: Vienna
+ Country: Austria
+ Date: 11/05/2020
+ -------------Concert Information-------------
+ Venue Name: O2 Arena
+ City: Prague
+ Country: Czech Republic
+ Date: 11/06/2020
+ -------------Concert Information-------------
+ Venue Name: Dvorana Stožice
+ City: Ljubljana
+ Country: Slovenia
+ Date: 11/09/2020
+ -------------Concert Information-------------
+ Venue Name: O2 Apollo Manchester
+ City: Manchester
+ Country: United Kingdom
+ Date: 10/14/2020
+ -------------Concert Information-------------
+ Venue Name: Arena COS Torwar
+ City: Warszawa
+ Country: Poland
+ Date: 11/12/2020
+ -------------Concert Information-------------
+ Venue Name: Arena Riga
+ City: R?ga
+ Country: Latvia
+ Date: 11/14/2020
+ -------------Concert Information-------------
+ Venue Name: Žalgiris arena
+ City: Kaunas
+ Country: Lithuania
+ Date: 11/16/2020
+ -------------Concert Information-------------
+ Venue Name: SEC Armadillo
+ City: Glasgow
+ Country: United Kingdom
+ Date: 10/13/2020
+ -------------Concert Information-------------
+ Venue Name: Yubileynyy
+ City: Sankt-peterburg
+ Country: Russia
+ Date: 11/19/2020
+ -------------Concert Information-------------
+ Venue Name: Vtb Arena Dinamo
+ City: Moskva
+ Country: Russia
+ Date: 11/20/2020
+ -------------Concert Information-------------
+ Venue Name: Ondrej Nepela Arena
+ City: Bratislava
+ Country: Slovakia
+ Date: 11/10/2020
+ -------------Concert Information-------------
+ Venue Name: Saku Arena
+ City: Tallinn
+ Country: Estonia
+ Date: 11/17/2020
+ -------------Concert Information-------------
+ Venue Name: Eventim Apollo Hammersmith
+ City: London
+ Country: United Kingdom
+ Date: 10/15/2020
+ -------------Concert Information-------------
+ Venue Name: Black Sea Arena
+ City: Shekvetili
+ Country: Georgia
+ Date: 10/10/2020
+ -------------Concert Information-------------
+ Venue Name: Forest National
+ City: Bruxelles
+ Country: Belgium
+ Date: 10/17/2020
+ -------------Concert Information-------------
+ Venue Name: Zenith
+ City: Munich
+ Country: Germany
+ Date: 10/18/2020
+ -------------Concert Information-------------
+ Venue Name: AFAS Live
+ City: Amsterdam
+ Country: Netherlands
+ Date: 10/20/2020
+ -------------Concert Information-------------
+ Venue Name: Zénith de Paris
+ City: Paris
+ Country: France
+ Date: 10/22/2020
+ -------------Concert Information-------------
+ Venue Name: Porsche Arena
+ City: Stuttgart
+ Country: Germany
+ Date: 10/23/2020
+ -------------Concert Information-------------
+ Venue Name: Barclaycard Arena Hamburg
+ City: Hamburg
+ Country: Germany
+ Date: 10/24/2020
+ -------------Concert Information-------------
+ Venue Name: Mitsubishi Electric HALLE
+ City: Dusseldorf
+ Country: Germany
+ Date: 10/26/2020
+ -------------Concert Information-------------
+ Venue Name: Hallenstadion
+ City: Zürich
+ Country: Switzerland
+ Date: 10/27/2020
+ -------------Concert Information-------------
+ Venue Name: SEC Armadillo
+ City: Glasgow
+ Country: United Kingdom
+ Date: 10/13/2020
+ -------------Concert Information-------------
+ Venue Name: Lorenzini District
+ City: Milano
+ Country: Italy
+ Date: 10/30/2020
+ -------------Concert Information-------------
+ Venue Name: Palacio Vistalegre
+ City: Madrid
+ Country: Spain
+ Date: 11/02/2020
+ -------------Concert Information-------------
+ Venue Name: Wiener Stadthalle
+ City: Vienna
+ Country: Austria
+ Date: 11/05/2020
+ -------------Concert Information-------------
+ Venue Name: Kioene Arena
+ City: Padova
+ Country: Italy
+ Date: 10/29/2020
+ -------------Concert Information-------------
+ Venue Name: Dvorana Stožice
+ City: Ljubljana
+ Country: Slovenia
+ Date: 11/09/2020
+ -------------Concert Information-------------
+ Venue Name: Ondrej Nepela Arena
+ City: Bratislava
+ Country: Slovakia
+ Date: 11/10/2020
+ -------------Concert Information-------------
+ Venue Name: Arena COS Torwar
+ City: Warszawa
+ Country: Poland
+ Date: 11/12/2020
+ -------------Concert Information-------------
+ Venue Name: Arena Riga
+ City: R?ga
+ Country: Latvia
+ Date: 11/14/2020
+ -------------Concert Information-------------
+ Venue Name: Žalgiris arena
+ City: Kaunas
+ Country: Lithuania
+ Date: 11/16/2020
+ -------------Concert Information-------------
+ Venue Name: Saku Arena
+ City: Tallinn
+ Country: Estonia
+ Date: 11/17/2020
+ -------------Concert Information-------------
+ Venue Name: Yubileynyy
+ City: Sankt-peterburg
+ Country: Russia
+ Date: 11/19/2020
+ -------------Concert Information-------------
+ Venue Name: Vtb Arena Dinamo
+ City: Moskva
+ Country: Russia
+ Date: 11/20/2020
+ -------------Concert Information-------------
+ Venue Name: O2 Apollo Manchester
+ City: Manchester
+ Country: United Kingdom
+ Date: 10/14/2020
+ -------------Concert Information-------------
+ Venue Name: O2 Arena
+ City: Prague
+ Country: Czech Republic
+ Date: 11/06/2020
+ -------------Concert Information-------------
+ Venue Name: Eventim Apollo Hammersmith
+ City: London
+ Country: United Kingdom
+ Date: 10/15/2020
+ -------------Concert Information-------------
+ Venue Name: Black Sea Arena
+ City: Shekvetili
+ Country: Georgia
+ Date: 10/10/2020
+ -------------Concert Information-------------
+ Venue Name: SEC Armadillo
+ City: Glasgow
+ Country: United Kingdom
+ Date: 10/13/2020
+ -------------Concert Information-------------
+ Venue Name: O2 Apollo Manchester
+ City: Manchester
+ Country: United Kingdom
+ Date: 10/14/2020
+ -------------Concert Information-------------
+ Venue Name: Zenith
+ City: Munich
+ Country: Germany
+ Date: 10/18/2020
+ -------------Concert Information-------------
+ Venue Name: AFAS Live
+ City: Amsterdam
+ Country: Netherlands
+ Date: 10/20/2020
+ -------------Concert Information-------------
+ Venue Name: Zénith de Paris
+ City: Paris
+ Country: France
+ Date: 10/22/2020
+ -------------Concert Information-------------
+ Venue Name: Porsche Arena
+ City: Stuttgart
+ Country: Germany
+ Date: 10/23/2020
+ -------------Concert Information-------------
+ Venue Name: Barclaycard Arena Hamburg
+ City: Hamburg
+ Country: Germany
+ Date: 10/24/2020
+ -------------Concert Information-------------
+ Venue Name: Mitsubishi Electric HALLE
+ City: Dusseldorf
+ Country: Germany
+ Date: 10/26/2020
+ -------------Concert Information-------------
+ Venue Name: Hallenstadion
+ City: Zürich
+ Country: Switzerland
+ Date: 10/27/2020
+ -------------Concert Information-------------
+ Venue Name: Kioene Arena
+ City: Padova
+ Country: Italy
+ Date: 10/29/2020
+ -------------Concert Information-------------
+ Venue Name: Lorenzini District
+ City: Milano
+ Country: Italy
+ Date: 10/30/2020
+ -------------Concert Information-------------
+ Venue Name: Palacio Vistalegre
+ City: Madrid
+ Country: Spain
+ Date: 11/02/2020
+ -------------Concert Information-------------
+ Venue Name: Wiener Stadthalle
+ City: Vienna
+ Country: Austria
+ Date: 11/05/2020
+ -------------Concert Information-------------
+ Venue Name: Dvorana Stožice
+ City: Ljubljana
+ Country: Slovenia
+ Date: 11/09/2020
+ -------------Concert Information-------------
+ Venue Name: Ondrej Nepela Arena
+ City: Bratislava
+ Country: Slovakia
+ Date: 11/10/2020
+ -------------Concert Information-------------
+ Venue Name: Arena COS Torwar
+ City: Warszawa
+ Country: Poland
+ Date: 11/12/2020
+ -------------Concert Information-------------
+ Venue Name: Arena Riga
+ City: R?ga
+ Country: Latvia
+ Date: 11/14/2020
+ -------------Concert Information-------------
+ Venue Name: Žalgiris arena
+ City: Kaunas
+ Country: Lithuania
+ Date: 11/16/2020
+ -------------Concert Information-------------
+ Venue Name: Saku Arena
+ City: Tallinn
+ Country: Estonia
+ Date: 11/17/2020
+ -------------Concert Information-------------
+ Venue Name: Yubileynyy
+ City: Sankt-peterburg
+ Country: Russia
+ Date: 11/19/2020
+ -------------Concert Information-------------
+ Venue Name: Vtb Arena Dinamo
+ City: Moskva
+ Country: Russia
+ Date: 11/20/2020
+ -------------Concert Information-------------
+ Venue Name: Eventim Apollo Hammersmith
+ City: London
+ Country: United Kingdom
+ Date: 10/15/2020
+ -------------Concert Information-------------
+ Venue Name: Forest National
+ City: Bruxelles
+ Country: Belgium
+ Date: 10/17/2020
+ -------------Concert Information-------------
+ Venue Name: O2 Arena
+ City: Prague
+ Country: Czech Republic
+ Date: 11/06/2020
+ -------------Spotify Choice-------------
+ Artist: Imagine Dragons
+ Song Name: Next To Me
+ Preview Link: null
+ Album Name: Evolve
+ -------------Spotify Choice-------------
+ Artist: Emeli Sandé
+ Song Name: Next To Me
+ Preview Link: null
+ Album Name: Our Version Of Events
+ -------------Spotify Choice-------------
+ Artist: Overtime
+ Song Name: Next to Me
+ Preview Link: https://p.scdn.co/mp3-preview/f2201ea84d3601e93a70711d14a4b478b4b0eee0?cid=39b2491617c74c879948e6cbf88e0f05
+ Album Name: The Foundation
+ -------------Spotify Choice-------------
+ Artist: Imagine Dragons
+ Song Name: Next To Me
+ Preview Link: null
+ Album Name: Evolve
+ -------------Spotify Choice-------------
+ Artist: Emeli Sandé
+ Song Name: Next To Me
+ Preview Link: null
+ Album Name: Our Version Of Events
+ -------------Spotify Choice-------------
+ Artist: Overtime
+ Song Name: Next to Me
+ Preview Link: https://p.scdn.co/mp3-preview/f2201ea84d3601e93a70711d14a4b478b4b0eee0?cid=39b2491617c74c879948e6cbf88e0f05
+ Album Name: The Foundation
+ -------------Movie Information-------------
+ Movie Title: Mad Max
+ Year Released: 1979
+ IMDB Rating: 6.9
+ Rotten Tomatoes Rating: 90%
+ Country Produced: Australia
+ Movie Language: English
+ Movie Plot: In a self-destructing world, a vengeful Australian policeman sets out to stop a violent motorcycle gang.
+ Movie's Actors/Actresses: Mel Gibson, Joanne Samuel, Hugh Keays-Byrne, Steve Bisley
+ -------------Concert Information-------------
+ Venue Name: Isleta Amphitheater
+ City: Albuquerque
+ Country: United States
+ Date: 06/03/2020
+ -------------Concert Information-------------
+ Venue Name: Pepsi Center
+ City: Denver
+ Country: United States
+ Date: 06/05/2020
+ -------------Concert Information-------------
+ Venue Name: Austin360 Amphitheater
+ City: Austin
+ Country: United States
+ Date: 06/07/2020
+ -------------Concert Information-------------
+ Venue Name: Cynthia Woods Mitchell Pavilion presented by Huntsman
+ City: The Woodlands
+ Country: United States
+ Date: 06/08/2020
+ -------------Concert Information-------------
+ Venue Name: Dos Equis Pavilion
+ City: Dallas
+ Country: United States
+ Date: 06/10/2020
+ -------------Concert Information-------------
+ Venue Name: Wrigley Field
+ City: Chicago
+ Country: United States
+ Date: 06/13/2020
+ -------------Concert Information-------------
+ Venue Name: Ruoff Home Mortgage Music Center 
+ City: Noblesville
+ Country: United States
+ Date: 06/14/2020
+ -------------Concert Information-------------
+ Venue Name: DTE Energy Music Theatre
+ City: Clarkston
+ Country: United States
+ Date: 06/16/2020
+ -------------Concert Information-------------
+ Venue Name: Blossom Music Center
+ City: Cuyahoga Falls
+ Country: United States
+ Date: 06/18/2020
+ -------------Concert Information-------------
+ Venue Name: KeyBank Pavilion
+ City: Burgettstown
+ Country: United States
+ Date: 06/19/2020
+ -------------Concert Information-------------
+ Venue Name: Fenway Park
+ City: Boston
+ Country: United States
+ Date: 06/24/2020
+ -------------Concert Information-------------
+ Venue Name: Citi Field
+ City: Flushing
+ Country: United States
+ Date: 06/25/2020
+ -------------Concert Information-------------
+ Venue Name: Darien Lake Amphitheater 
+ City: Darien Center
+ Country: United States
+ Date: 06/27/2020
+ -------------Concert Information-------------
+ Venue Name: Budweiser Stage
+ City: Toronto
+ Country: Canada
+ Date: 06/28/2020
+ -------------Concert Information-------------
+ Venue Name: Simmons Bank Arena
+ City: North Little Rock
+ Country: United States
+ Date: 08/02/2020
+ -------------Concert Information-------------
+ Venue Name: Chesapeake Energy Arena
+ City: Oklahoma City
+ Country: United States
+ Date: 08/04/2020
+ -------------Concert Information-------------
+ Venue Name: Pinnacle Bank Arena
+ City: Lincoln
+ Country: United States
+ Date: 08/06/2020
+ -------------Concert Information-------------
+ Venue Name: Fargodome
+ City: Fargo
+ Country: United States
+ Date: 08/08/2020
+ -------------Concert Information-------------
+ Venue Name: Xcel Energy Center
+ City: St Paul
+ Country: United States
+ Date: 08/09/2020
+ -------------Concert Information-------------
+ Venue Name: Pepsi Live at Rogers Arena 
+ City: Vancouver
+ Country: Canada
+ Date: 08/14/2020
+ -------------Concert Information-------------
+ Venue Name: Rogers Place
+ City: Edmonton
+ Country: Canada
+ Date: 08/12/2020
+ -------------Concert Information-------------
+ Venue Name: White River Amphitheatre
+ City: Auburn
+ Country: United States
+ Date: 08/15/2020
+ -------------Concert Information-------------
+ Venue Name: Rose Quarter (Consists of the Moda Center and Veterans Memorial Coliseum)
+ City: Portland
+ Country: United States
+ Date: 08/17/2020
+ -------------Concert Information-------------
+ Venue Name: Shoreline Amphitheatre and Grounds 
+ City: Mountain View
+ Country: United States
+ Date: 08/19/2020
+ -------------Concert Information-------------
+ Venue Name: Los Angeles Football Club/Banc of California Stadium 
+ City: Los Angeles
+ Country: United States
+ Date: 08/21/2020
+ -------------Concert Information-------------
+ Venue Name: Concord Pavilion
+ City: Concord
+ Country: United States
+ Date: 08/22/2020
+ -------------Concert Information-------------
+ Venue Name: USANA Amphitheatre 
+ City: Salt Lake City
+ Country: United States
+ Date: 08/24/2020
+ -------------Concert Information-------------
+ Venue Name: Sprint Center
+ City: Kansas City
+ Country: United States
+ Date: 08/27/2020
+ -------------Concert Information-------------
+ Venue Name: Hollywood Casino Amphitheatre
+ City: Maryland Heights
+ Country: United States
+ Date: 08/29/2020
+ -------------Concert Information-------------
+ Venue Name: American Family Insurance Amphitheater
+ City: Milwaukee
+ Country: United States
+ Date: 08/30/2020
+ -------------Concert Information-------------
+ Venue Name: Riverbend Music Center
+ City: Cincinnati
+ Country: United States
+ Date: 09/01/2020
+ -------------Concert Information-------------
+ Venue Name: BB&T Pavilion
+ City: Camden
+ Country: United States
+ Date: 09/03/2020
+ -------------Concert Information-------------
+ Venue Name: Hershey Park Pavilion/Stadium 
+ City: Hershey
+ Country: United States
+ Date: 09/05/2020
+ -------------Concert Information-------------
+ Venue Name: Saratoga Performing Arts Center Box Office
+ City: Saratoga Springs
+ Country: United States
+ Date: 09/06/2020
+ -------------Concert Information-------------
+ Venue Name: Xfinity Theatre
+ City: Hartford
+ Country: United States
+ Date: 09/09/2020
+ -------------Concert Information-------------
+ Venue Name: Jiffy Lube Live
+ City: Bristow
+ Country: United States
+ Date: 09/11/2020
+ -------------Concert Information-------------
+ Venue Name: Coastal Credit Union Music Park @ Walnut Creek Amphitheatre
+ City: Raleigh
+ Country: United States
+ Date: 09/12/2020
+ -------------Concert Information-------------
+ Venue Name: PNC Music Pavilion
+ City: Charlotte
+ Country: United States
+ Date: 09/14/2020
+ -------------Concert Information-------------
+ Venue Name: Coral Sky Amphitheatre
+ City: West Palm Beach
+ Country: United States
+ Date: 09/16/2020
+ -------------Concert Information-------------
+ Venue Name: MIDFLORIDA Credit Union Amphitheatre
+ City: Tampa
+ Country: United States
+ Date: 09/17/2020
+ -------------Spotify Choice-------------
+ Artist: Imagine Dragons
+ Song Name: Next To Me
+ Preview Link: null
+ Album Name: Evolve
+ -------------Spotify Choice-------------
+ Artist: Emeli Sandé
+ Song Name: Next To Me
+ Preview Link: null
+ Album Name: Our Version Of Events
+ -------------Spotify Choice-------------
+ Artist: Overtime
+ Song Name: Next to Me
+ Preview Link: https://p.scdn.co/mp3-preview/f2201ea84d3601e93a70711d14a4b478b4b0eee0?cid=39b2491617c74c879948e6cbf88e0f05
+ Album Name: The Foundation
+ -------------Movie Information-------------
+ Movie Title: Zootopia
+ Year Released: 2016
+ IMDB Rating: 8.0
+ Rotten Tomatoes Rating: 98%
+ Country Produced: USA
+ Movie Language: English
+ Movie Plot: In a city of anthropomorphic animals, a rookie bunny cop and a cynical con artist fox must work together to uncover a conspiracy.
+ Movie's Actors/Actresses: Ginnifer Goodwin, Jason Bateman, Idris Elba, Jenny Slate
