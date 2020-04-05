@@ -18,13 +18,15 @@ moment().format();
 var axios = require("axios");
 
 // use fs node package to take text from random.txt
-// var fs = require("random.txt")
+var fs = require("fs")
 
 // arguement for the switch statement
 var commandLiri = process.argv[2]; 
 
 var value = process.argv[3];
 
+
+function switchCase(){
 // calls the functions and puts the values in their consecutive groups
 switch(commandLiri) {
     case "concert-this":
@@ -46,9 +48,32 @@ switch(commandLiri) {
     // if user puts in a wrong command
     default: 
     console.log("Not recgonized command. Please these commands only for the liri app: concert-this, spotify-this-song, movie-this, do-what-it-says");
-};
+    };
+}
 
-// function pulls the artist name from the Bands in Town API
+if (commandLiri === "do-what-it-says"){
+    random();
+} else{
+    switchCase();
+}
+
+    function random() {
+
+        // We will read the existing random.txt file
+        fs.readFile("random.txt", "utf8", function(err, data) {
+          if (err) {
+            console.log("Error!", err);
+            return;
+          }
+          
+          var txt = data.split(',');
+          commandLiri = txt[0];
+          value = txt.slice(1);
+          switchCase();
+        });
+    }
+
+    // function pulls the artist name from the Bands in Town API
 function concertThis(artist) {
     axios.get("https://rest.bandsintown.com/artists/" + artist + "/events?app_id=codingbootcamp").then(
         function(response){
@@ -69,11 +94,16 @@ function concertThis(artist) {
 
                 console.log(concertChoice);
 
+                fs.appendFile("random.txt", "\r\n " + concertChoice, function(err){
+                    if(err){
+                        console.log(err);
+                    }
+                });
             } 
         })
         .catch(function (err) {
             console.log(err);
-        });         
+        });        
     }
     
     function spotifyThis(value){
@@ -95,12 +125,20 @@ function concertThis(artist) {
                "\n Preview Link: " + response.tracks.items[i].preview_url +
                "\n Album Name: " + response.tracks.items[i].album.name;
                console.log(spotifyChoice);
+
+               fs.appendFile("random.txt", "\r\n " + spotifyChoice, function(err){
+                if(err){
+                    console.log(err);
+                }
+            });
            }
        })
        .catch(function(err) {
            console.log(err);
        });
    }
+
+   // function pulls the movie name from the OMDB API
 
     function movieThis(movie){
         axios.get("http://www.omdbapi.com/?t="+ movie + "&y=&plot=short&apikey=trilogy").then(
@@ -121,10 +159,17 @@ function concertThis(artist) {
                 "\n Movie's Actors/Actresses: " + response.data.Actors 
 
                 console.log(movieChoice);
-    
+                
+                fs.appendFile("random.txt", "\r\n " + movieChoice, function(err){
+                    if(err){
+                        console.log(err);
+                    }
+                });
                 
             })
             .catch(function(err) {
                 console.log(err);
             });
-        }
+}
+
+ 
