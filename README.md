@@ -1,6 +1,6 @@
 # LIRI Bot
 
-LIRI, like SIRI, is a Language Interpretation and Recognition Interface in Javascript. Functioned as a command line node app, it takes parameters and gives back data to the user. 
+LIRI, like SIRI [but different], is a Language Interpretation and Recognition Interface in Javascript. Functioned as a command line node app, it takes parameters and gives back data to the user. 
 
 ### Description of LIRI Bot
 

@@ -141,6 +141,11 @@ function concertThis(artist) {
    // function pulls the movie name from the OMDB API
 
     function movieThis(movie){
+
+        if(!movie){
+            value = "Mr Nobody";
+        }
+
         axios.get("http://www.omdbapi.com/?t="+ movie + "&y=&plot=short&apikey=trilogy").then(
             function(response){
                 
