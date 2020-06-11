@@ -100,7 +100,7 @@ function concertThis(artist) {
 
         console.log(concertChoice);
 
-        fs.appendFile('random.txt', '\r\n ' + concertChoice, function (err) {
+        fs.writeFile('random.txt', '\r\n ' + concertChoice, function (err) {
           if (err) {
             console.log(err);
           }
@@ -135,7 +135,7 @@ function spotifyThis(value) {
           response.tracks.items[i].album.name;
         console.log(spotifyChoice);
 
-        fs.appendFile('random.txt', '\r\n ' + spotifyChoice, function (err) {
+        fs.writeFile('random.txt', '\r\n ' + spotifyChoice, function (err) {
           if (err) {
             console.log(err);
           }
@@ -181,7 +181,7 @@ function movieThis(movie) {
 
       console.log(movieChoice);
 
-      fs.appendFile('random.txt', '\r\n ' + movieChoice, function (err) {
+      fs.writeFile('random.txt', '\r\n ' + movieChoice, function (err) {
         if (err) {
           console.log(err);
         }
