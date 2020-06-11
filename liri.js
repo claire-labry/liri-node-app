@@ -57,12 +57,12 @@ function switchCase() {
 }
 
 if (commandLiri === 'do-what-it-says') {
-  random();
+  doIt();
 } else {
   switchCase();
 }
 
-function random() {
+function doIt() {
   // We will read the existing random.txt file
   fs.readFile('random.txt', 'utf8', function (err, data) {
     if (err) {
@@ -104,7 +104,7 @@ function concertThis(artist) {
 
         console.log(clc.cyan.bold(concertChoice));
 
-        fs.writeFile('random.txt', concertChoice, function (err) {
+        fs.appendFile('log.txt', '\r\n' + concertChoice, function (err) {
           if (err) {
             console.log(err);
           }
@@ -139,7 +139,7 @@ function spotifyThis(value) {
           response.tracks.items[i].album.name;
         console.log(clc.magenta.bold(spotifyChoice));
 
-        fs.writeFile('random.txt', '\r\n ' + spotifyChoice, function (err) {
+        fs.appendFile('log.txt', '\r\n ' + spotifyChoice, function (err) {
           if (err) {
             console.log(err);
           }
@@ -185,7 +185,7 @@ function movieThis(movie) {
 
       console.log(clc.green.bold(movieChoice));
 
-      fs.writeFile('random.txt', '\r\n ' + movieChoice, function (err) {
+      fs.appendFile('log.txt', '\r\n ' + movieChoice, function (err) {
         if (err) {
           console.log(err);
         }
