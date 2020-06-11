@@ -195,3 +195,7 @@ function movieThis(movie) {
       console.log(err);
     });
 }
+
+// Notes for future improvements
+// fix do-what-it-says command
+// add more functionalities, such as adding effects in the cli
