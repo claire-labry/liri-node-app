@@ -2,6 +2,10 @@
 
 require('dotenv').config();
 
+// color the cli terminal based on categories
+
+var clc = require('cli-color');
+
 // variables for liri
 
 // variables for spotify
@@ -88,7 +92,7 @@ function concertThis(artist) {
         var dateArray = datetime.split(' ');
 
         var concertChoice =
-          '-------------Concert Information-------------' +
+          '-------------Concert Information-----------' +
           '\n Venue Name: ' +
           response.data[i].venue.name +
           '\n City: ' +
@@ -98,9 +102,9 @@ function concertThis(artist) {
           '\n Date: ' +
           moment(dateArray[0]).format('MM/DD/YYYY');
 
-        console.log(concertChoice);
+        console.log(clc.cyan.bold(concertChoice));
 
-        fs.writeFile('random.txt', '\r\n ' + concertChoice, function (err) {
+        fs.writeFile('random.txt', concertChoice, function (err) {
           if (err) {
             console.log(err);
           }
@@ -133,7 +137,7 @@ function spotifyThis(value) {
           response.tracks.items[i].preview_url +
           '\n Album Name: ' +
           response.tracks.items[i].album.name;
-        console.log(spotifyChoice);
+        console.log(clc.magenta.bold(spotifyChoice));
 
         fs.writeFile('random.txt', '\r\n ' + spotifyChoice, function (err) {
           if (err) {
@@ -179,7 +183,7 @@ function movieThis(movie) {
         "\n Movie's Actors/Actresses: " +
         response.data.Actors;
 
-      console.log(movieChoice);
+      console.log(clc.green.bold(movieChoice));
 
       fs.writeFile('random.txt', '\r\n ' + movieChoice, function (err) {
         if (err) {

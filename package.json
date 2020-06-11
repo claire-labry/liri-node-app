@@ -19,6 +19,7 @@
   "homepage": "https://github.com/claire-labry/liri-node-app#readme",
   "dependencies": {
     "axios": "^0.19.2",
+    "cli-color": "^2.0.0",
     "dotenv": "^8.2.0",
     "fs": "0.0.1-security",
     "moment": "^2.24.0",

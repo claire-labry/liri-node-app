@@ -1,6 +1,5 @@
-
- -------------Spotify Choice-------------
- Artist: Overtime
- Song Name: Next to Me
- Preview Link: https://p.scdn.co/mp3-preview/f2201ea84d3601e93a70711d14a4b478b4b0eee0?cid=39b2491617c74c879948e6cbf88e0f05
- Album Name: The Foundation
+-------------Concert Information-----------
+ Venue Name: Vtb Arena Dinamo
+ City: Moskva
+ Country: Russia
+ Date: 11/20/20200200/2020/20202020
