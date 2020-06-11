@@ -1271,3 +1271,161 @@ spotify-this-song,"I Want it That Way"
  Movie Language: English
  Movie Plot: In a city of anthropomorphic animals, a rookie bunny cop and a cynical con artist fox must work together to uncover a conspiracy.
  Movie's Actors/Actresses: Ginnifer Goodwin, Jason Bateman, Idris Elba, Jenny Slate
+ -------------Spotify Choice-------------
+ Artist: Imagine Dragons
+ Song Name: Next To Me
+ Preview Link: null
+ Album Name: Evolve
+ -------------Spotify Choice-------------
+ Artist: Emeli Sandé
+ Song Name: Next To Me
+ Preview Link: null
+ Album Name: Our Version Of Events
+ -------------Spotify Choice-------------
+ Artist: Overtime
+ Song Name: Next to Me
+ Preview Link: https://p.scdn.co/mp3-preview/f2201ea84d3601e93a70711d14a4b478b4b0eee0?cid=39b2491617c74c879948e6cbf88e0f05
+ Album Name: The Foundation
+ -------------Concert Information-------------
+ Venue Name: Black Sea Arena
+ City: Shekvetili
+ Country: Georgia
+ Date: 10/10/2020
+ -------------Concert Information-------------
+ Venue Name: SEC Armadillo
+ City: Glasgow
+ Country: United Kingdom
+ Date: 10/13/2020
+ -------------Concert Information-------------
+ Venue Name: Zenith
+ City: Munich
+ Country: Germany
+ Date: 10/18/2020
+ -------------Concert Information-------------
+ Venue Name: AFAS Live
+ City: Amsterdam
+ Country: Netherlands
+ Date: 10/20/2020
+ -------------Concert Information-------------
+ Venue Name: Zénith de Paris
+ City: Paris
+ Country: France
+ Date: 10/22/2020
+ -------------Concert Information-------------
+ Venue Name: Porsche Arena
+ City: Stuttgart
+ Country: Germany
+ Date: 10/23/2020
+ -------------Concert Information-------------
+ Venue Name: Barclaycard Arena Hamburg
+ City: Hamburg
+ Country: Germany
+ Date: 10/24/2020
+ -------------Concert Information-------------
+ Venue Name: Mitsubishi Electric HALLE
+ City: Dusseldorf
+ Country: Germany
+ Date: 10/26/2020
+ -------------Concert Information-------------
+ Venue Name: Hallenstadion
+ City: Zürich
+ Country: Switzerland
+ Date: 10/27/2020
+ -------------Concert Information-------------
+ Venue Name: Kioene Arena
+ City: Padova
+ Country: Italy
+ Date: 10/29/2020
+ -------------Concert Information-------------
+ Venue Name: Lorenzini District
+ City: Milano
+ Country: Italy
+ Date: 10/30/2020
+ -------------Concert Information-------------
+ Venue Name: Palacio Vistalegre
+ City: Madrid
+ Country: Spain
+ Date: 11/02/2020
+ -------------Concert Information-------------
+ Venue Name: Wiener Stadthalle
+ City: Vienna
+ Country: Austria
+ Date: 11/05/2020
+ -------------Concert Information-------------
+ Venue Name: O2 Arena
+ City: Prague
+ Country: Czech Republic
+ Date: 11/06/2020
+ -------------Concert Information-------------
+ Venue Name: Dvorana Stožice
+ City: Ljubljana
+ Country: Slovenia
+ Date: 11/09/2020
+ -------------Concert Information-------------
+ Venue Name: Ondrej Nepela Arena
+ City: Bratislava
+ Country: Slovakia
+ Date: 11/10/2020
+ -------------Concert Information-------------
+ Venue Name: Arena COS Torwar
+ City: Warszawa
+ Country: Poland
+ Date: 11/12/2020
+ -------------Concert Information-------------
+ Venue Name: Arena Riga
+ City: R?ga
+ Country: Latvia
+ Date: 11/14/2020
+ -------------Concert Information-------------
+ Venue Name: Žalgiris arena
+ City: Kaunas
+ Country: Lithuania
+ Date: 11/16/2020
+ -------------Concert Information-------------
+ Venue Name: Forest National
+ City: Bruxelles
+ Country: Belgium
+ Date: 10/17/2020
+ -------------Concert Information-------------
+ Venue Name: Saku Arena
+ City: Tallinn
+ Country: Estonia
+ Date: 11/17/2020
+ -------------Concert Information-------------
+ Venue Name: Vtb Arena Dinamo
+ City: Moskva
+ Country: Russia
+ Date: 11/20/2020
+ -------------Concert Information-------------
+ Venue Name: Eventim Apollo Hammersmith
+ City: London
+ Country: United Kingdom
+ Date: 10/15/2020
+ -------------Concert Information-------------
+ Venue Name: Yubileynyy
+ City: Sankt-peterburg
+ Country: Russia
+ Date: 11/19/2020
+ -------------Concert Information-------------
+ Venue Name: O2 Apollo Manchester
+ City: Manchester
+ Country: United Kingdom
+ Date: 10/14/2020
+ -------------Movie Information-------------
+ Movie Title: Zootopia
+ Year Released: 2016
+ IMDB Rating: 8.0
+ Rotten Tomatoes Rating: 98%
+ Country Produced: USA
+ Movie Language: English
+ Movie Plot: In a city of anthropomorphic animals, a rookie bunny cop and a cynical con artist fox must work together to uncover a conspiracy.
+ Movie's Actors/Actresses: Ginnifer Goodwin, Jason Bateman, Idris Elba, Jenny Slate
+ -------------Movie Information-------------
+ Movie Title: Undefined
+ Year Released: 2006
+ IMDB Rating: 6.5
+ Rotten Tomatoes Rating: undefined
+ Country Produced: USA
+ Movie Language: English
+ Movie Plot: An unfortunate accident sets in motion a path of change for Nathanial Cane as he attempts to recover from substance abuse. A mentally unstable psychiatrist, DR. Henry Calhoon is tipping ...
+ Movie's Actors/Actresses: Ralph Cooley, Phillip Enriquez, Gregory Labenz, Amy MacDonald
